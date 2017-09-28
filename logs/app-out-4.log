@@ -1,0 +1,10 @@
+server started at localhost:9000
+server started at localhost:9000
+data pre-fetch: 48ms
+whole request: 102ms
+data pre-fetch: 29ms
+whole request: 35ms
+data pre-fetch: 36ms
+whole request: 40ms
+data pre-fetch: 30ms
+whole request: 35ms
